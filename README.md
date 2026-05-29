@@ -113,7 +113,7 @@ california-housing-price-prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/amitlamsal/california-housing-price-prediction
+git clone https://github.com/amitlamsal/California-Housing-Price-Prediction-using-Python
 ```
 
 2. Install required libraries:
